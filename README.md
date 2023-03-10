@@ -4,7 +4,7 @@ Use New York City ride share to uncover phenomena within the cities Citibike usa
 
 ## Examining User Trends between June 2019 and June 2020
 
-The dashboard below represents user type trends in June 2019 and June 2020. User type is defined by customer--non-subscription riders, and Subscribers.
+### The dashboard below represents user type trends in June 2019 and June 2020. User type is defined by customer--non-subscription riders, and Subscribers.
 <p align="center">
   <img width=1000px height=540px src="https://github.com/camillejensen/Tableau-challenge/blob/4d261d6c356b1a658f88f218774044250358e875/Images/Dashboard_1.png">
 </p>
@@ -13,8 +13,14 @@ In June of 2019, New York City began softly reopening the city after the Covid-1
 In both years' data, riders born between 1980-1995 were the largest demographic of subscribers. This could be due to a number of concerns including environmental, financial, and overall health. An unexpected trend found theres a spike in non-member riders for people born in 1969, both pre and post lockdown. 
 
 ## Top/Bottom 10 Start and End Stations in Jersey City
+
+### The dashboard below illustrates the top/bottom 10 start stations of October 2022.
 <p align="center">
-  <img width=700px height=540px src="https://github.com/camillejensen/Tableau-challenge/blob/7f2afb4ebfedecfbb0ecccc93d5872227a1805e6/Images/Screenshot%202023-03-10%20at%201.01.43%20PM.png"> <p align="center">
+  <img width=700px height=540px src="https://github.com/camillejensen/Tableau-challenge/blob/7f2afb4ebfedecfbb0ecccc93d5872227a1805e6/Images/Screenshot%202023-03-10%20at%201.01.43%20PM.png"> 
+</p>
+
+### The dashboard below illustrates the top/bottom 10 end stations of October 2022.
+<p align="center">
   <img width=700px height=540px src="https://github.com/camillejensen/Tableau-challenge/blob/ab313b6bdc4eb96b25a5e545a09e6480262afcf3/Images/Screenshot%202023-03-10%20at%201.02.02%20PM.png">
 </p>
 
