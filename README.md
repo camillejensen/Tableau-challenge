@@ -2,7 +2,7 @@
 
 The dashboard below represents user type trends in June 2019 and June 2020. User type is defined by customer--non-subscription riders, and Subscribers.
 <p align="center">
-  <img width=400px height=240px src="#INPUT#">
+  <img width=1000px height=540px src="https://github.com/camillejensen/Tableau-challenge/blob/4d261d6c356b1a658f88f218774044250358e875/Images/Dashboard_1.png">
 </p>
 In June of 2019, New York City began softly reopening the city after the Covid-19 hard lockdowns. I wanted to see how user type changed from the same month of the previous year. I hypothysized that membership would be down in 2020 compared to 2019. Based on the trends, this hypothesis was correct. Usage all together was down, but non-member riders increased in 2020 from 2019. I suspect this is due to less commutes to the office, changes in daily routines and resposibilites, etc. There was less of a demand for memberships, and more spontaneuous rides. 
 
