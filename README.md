@@ -1,4 +1,8 @@
-# Examining User Trends between June 2019 and June 2020
+# Tableau Citibike Challenge
+
+Use New York City ride share to uncover phenomena within the cities Citibike usage.
+
+## Examining User Trends between June 2019 and June 2020
 
 The dashboard below represents user type trends in June 2019 and June 2020. User type is defined by customer--non-subscription riders, and Subscribers.
 <p align="center">
