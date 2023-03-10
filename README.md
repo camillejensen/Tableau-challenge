@@ -36,5 +36,5 @@ The number one start and end station in Jersey City in Oct of 2022 was the Grove
 ### End Station Map
 
 <p align="center">
-  <img width=700px height=540px src="https://github.com/camillejensen/Tableau-challenge/blob/0bd3e7a4a008463cb73764bada22fb1ddcc450fe/Images/Screenshot%202023-03-10%20at%201.50.54%20PM.png">
+  <img width=700px height=540px src="https://github.com/camillejensen/Tableau-challenge/blob/7270641ffffda571e355c28d395e6ca79d153c7d/Images/Screenshot%202023-03-10%20at%201.51.11%20PM.png">
 </p>
