@@ -13,5 +13,8 @@ In June of 2019, New York City began softly reopening the city after the Covid-1
 In both years' data, riders born between 1980-1995 were the largest demographic of subscribers. This could be due to a number of concerns including environmental, financial, and overall health. An unexpected trend found theres a spike in non-member riders for people born in 1969, both pre and post lockdown. 
 
 ## Top/Bottom 10 Start and End Stations in Jersey City
+<p align="left">
+  <img width=500px height=540px src="https://github.com/camillejensen/Tableau-challenge/blob/7f2afb4ebfedecfbb0ecccc93d5872227a1805e6/Images/Screenshot%202023-03-10%20at%201.01.43%20PM.png">
+</p>
 
 The number one start and end station in Jersey City in Oct of 2022 was the Grove St station. This is likely due to the fact that it is only a 1.7 mile bike ride into New York, and about a 45 minute bike ride to the center of Manhatten. Driving from Grove Street to Manhatten is about a 50 minute drive without traffic. This way Citibike users can travel from Jersey City to NYC for day trips, or even to commute to work(weather permitting). As one can likely guess, the further Citibike stationa from NYC, are less likely to attract users.  
