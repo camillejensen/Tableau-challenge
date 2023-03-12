@@ -38,3 +38,6 @@ The number one start and end station in Jersey City in Oct of 2022 was the Grove
 <p align="center">
   <img width=700px height=540px src="https://github.com/camillejensen/Tableau-challenge/blob/7270641ffffda571e355c28d395e6ca79d153c7d/Images/Screenshot%202023-03-10%20at%201.51.11%20PM.png">
 </p>
+
+The highest trafficked start and end stations in Jersey City are the ones closest to NYC. The stations closer to the river are used regularly. Aside from Grove St being the most popular station to start and end at, there is a cluster of popular stations all in Hoboken, near the Hoboken terminal. The stations that are further away from Hoboken and the city center are least trafficked. 
+
